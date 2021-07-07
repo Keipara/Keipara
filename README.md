@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on completing a coding bootcamp- App Academy!
 <!--
 **Keipara/Keipara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
