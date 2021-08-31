@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on completing a coding bootcamp- App Academy!
 - 🌱 I’m currently learning authentication
 - 👯 looking to collaborate on API
+- 🤔 I’m looking for help with React
 <!--
 **Keipara/Keipara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
