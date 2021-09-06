@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning authentication
 - 👯 looking to collaborate on API
 - 🤔 I’m looking for help with React
+- 💬 Ask me about fullstack dev
 <!--
 **Keipara/Keipara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
