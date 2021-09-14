@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on completing a coding bootcamp- App Academy!
 - 🌱 I’m currently learning web developmeny
-- 👯 looking to collaborate on web development
+- 👯 looking to collaborate on fullstack projects
 - 🤔 I’m looking for help with React
-- 💬 Ask me about fullstack dev
+- 💬 Ask me about authentication
 <!--
 **Keipara/Keipara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
