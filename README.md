@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on completing a coding bootcamp- App Academy!
-- 🌱 I’m currently learning pug.js
-- 👯 looking to collaborate on API
+- 🌱 I’m currently learning web developmeny
+- 👯 looking to collaborate on web development
 - 🤔 I’m looking for help with React
 - 💬 Ask me about fullstack dev
 <!--
