@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with React
 - 💬 Ask me about authentication
 - 📫 How to reach me: kiara.mendaros@gmail.com or LinkedIn
+- 😄 Pronouns: she/her
 <!--
 **Keipara/Keipara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
