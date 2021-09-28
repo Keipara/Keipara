@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on completing a coding bootcamp- App Academy!
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning React
 - 👯 looking to collaborate on fullstack projects
 - 🤔 I’m looking for help with React
 - 💬 Ask me about authentication
