@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on completing a coding bootcamp- App Academy!
 - 🌱 I’m currently learning Python
 - 👯 looking to collaborate on fullstack projects
-- 🤔 I’m looking for help with React
+- 🤔 I’m looking for help with Python
 - 💬 Ask me about authentication
 - 📫 How to reach me: kiara.mendaros@gmail.com or LinkedIn
 - 😄 Pronouns: she/her
