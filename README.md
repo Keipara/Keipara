@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning SQLAlchemy
 - 👯 looking to collaborate on fullstack projects
 - 🤔 I’m looking for help with Python
-- 💬 Ask me about Python
+- 💬 Ask me about Big O
 - 📫 How to reach me: kiara.mendaros@gmail.com or LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was an amateur game dev producer as an undergraduate!
