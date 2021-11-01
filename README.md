@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about Big O
 - 📫 How to reach me: kiara.mendaros@gmail.com or LinkedIn
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I was an amateur game dev producer as an undergraduate!
 <!--
 **Keipara/Keipara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
