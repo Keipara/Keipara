@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on completing a coding bootcamp- App Academy!
-- 🌱 I’m currently learning SQLAlchemy
+- 🌱 I’m currently learning Docker
 - 👯 looking to collaborate on fullstack projects
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about Big O
