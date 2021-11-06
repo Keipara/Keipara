@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on completing a coding bootcamp- App Academy!
 - 🌱 I’m currently learning Docker
 - 👯 looking to collaborate on fullstack projects
-- 🤔 I’m looking for help with Python
+- 🤔 I’m looking for help with Flask
 - 💬 Ask me about Big O
 - 📫 How to reach me: kiara.mendaros@gmail.com or LinkedIn
 - 😄 Pronouns: she/her/hers
