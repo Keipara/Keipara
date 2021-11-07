@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on python fullstack group project
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning flask
 - 👯 looking to collaborate on fullstack projects
 - 🤔 I’m looking for help with Flask
 - 💬 Ask me about Big O
