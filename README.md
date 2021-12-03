@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on python fullstack group project
+- 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning flask
 - 👯 looking to collaborate on fullstack projects
 - 🤔 I’m looking for help with Flask
