@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning flask
 - 👯 looking to collaborate on fullstack projects
 - 🤔 I’m looking for help with Flask
-- 💬 Ask me about Big O
+- 💬 Ask me about IndieGameDev
 - 📫 How to reach me: kiara.mendaros@gmail.com or LinkedIn
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I was an amateur game dev producer as an undergraduate!
