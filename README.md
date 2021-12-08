@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning flask
+- 🌱 I’m currently learning python
 - 👯 looking to collaborate on fullstack projects
 - 🤔 I’m looking for help with Flask
 - 💬 Ask me about advent of code
