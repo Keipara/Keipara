@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning python
 - 👯 looking to collaborate on fullstack projects
-- 🤔 I’m looking for help with Flask
+- 🤔 I’m looking for help with DS & A
 - 💬 Ask me about advent of code
 - 📫 How to reach me: kiara.mendaros@gmail.com or LinkedIn
 - 😄 Pronouns: she/her/hers
