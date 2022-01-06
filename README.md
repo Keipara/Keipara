@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my portfolio.
+- 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning python
 - 👯 looking to collaborate on fullstack projects
 - 🤔 I’m looking for help with DS & A
